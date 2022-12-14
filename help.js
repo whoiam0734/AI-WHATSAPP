@@ -19,21 +19,12 @@ return`
  Date : ${tanggal}
  Terdaftar : ${usernya}
  Room Chat : ${romnya}
- Total Fitur : 600+
+ Fitur : ngebug,harap di maklumi 
 
  𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}menu
- ${no++} ➳ ${prefix}iklan
  ${no++} ➳ ${prefix}rules
  ${no++} ➳ ${prefix}owner
- ${no++} ➳ ${prefix}script
- ${no++} ➳ ${prefix}infobot
- ${no++} ➳ ${prefix}donasi
- ${no++} ➳ ${prefix}donate
- ${no++} ➳ ${prefix}jadibot
- ${no++} ➳ ${prefix}listjadibot
- ${no++} ➳ ${prefix}sewabot
- ${no++} ➳ ${prefix}groupbot
  ${no++} ➳ ${prefix}ownerinfo
  ${no++} ➳ ${prefix}infoowner
 
@@ -69,19 +60,6 @@ return`
  ${no++} ➳ ${prefix}bcimage
  ${no++} ➳ ${prefix}broadcast
 
- 𝙎𝙏𝙊𝙍𝙀 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}kali 1 2
- ${no++} ➳ ${prefix}bagi 1 2
- ${no++} ➳ ${prefix}kurang 1 2
- ${no++} ➳ ${prefix}tambah 1 2
- ${no++} ➳ ${prefix}dellist key
- ${no++} ➳ ${prefix}addlist key@response
- ${no++} ➳ ${prefix}update key@response
- ${no++} ➳ ${prefix}done <reply orderan>
- ${no++} ➳ ${prefix}proses <reply orderan>
- ${no++} ➳ ${prefix}list <only group>
- ${no++} ➳ ${prefix}shop <only group>
- 
  𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}fitnah
  ${no++} ➳ ${prefix}delete
@@ -91,7 +69,6 @@ return`
  ${no++} ➳ ${prefix}setdesc
  ${no++} ➳ ${prefix}linkgrup
  ${no++} ➳ ${prefix}infogroup
- ${no++} ➳ ${prefix}setppgrup
  ${no++} ➳ ${prefix}setnamegrup
  ${no++} ➳ ${prefix}group open
  ${no++} ➳ ${prefix}group close
@@ -124,16 +101,9 @@ return`
  ${no++} ➳ ${prefix}mediafire
  ${no++} ➳ ${prefix}wikimedia
  ${no++} ➳ ${prefix}soundcloud
- ${no++} ➳ ${prefix}infogempa
 
  𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}tts
- ${no++} ➳ ${prefix}ttp
- ${no++} ➳ ${prefix}ttp2
- ${no++} ➳ ${prefix}attp
- ${no++} ➳ ${prefix}attp2
- ${no++} ➳ ${prefix}tourl
- ${no++} ➳ ${prefix}upload
  ${no++} ➳ ${prefix}toimg
  ${no++} ➳ ${prefix}toimage
  ${no++} ➳ ${prefix}tomp3
@@ -146,9 +116,6 @@ return`
  ${no++} ➳ ${prefix}mixemoji
  ${no++} ➳ ${prefix}stiker
  ${no++} ➳ ${prefix}sticker
- ${no++} ➳ ${prefix}sgif
- ${no++} ➳ ${prefix}stikergif
- ${no++} ➳ ${prefix}stickergif
  ${no++} ➳ ${prefix}swm
  ${no++} ➳ ${prefix}stikerwm
  ${no++} ➳ ${prefix}stickerwm
@@ -163,34 +130,7 @@ return`
  ${no++} ➳ ${prefix}emojimix2
 
  𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}spamcall
  ${no++} ➳ ${prefix}translate
- ${no++} ➳ ${prefix}ssweb-pc
- ${no++} ➳ ${prefix}ssweb-hp
- ${no++} ➳ ${prefix}bitly_short
- ${no++} ➳ ${prefix}cuttly_short
- ${no++} ➳ ${prefix}tinyurl_short
- ${no++} ➳ ${prefix}base32
- ${no++} ➳ ${prefix}base64
- ${no++} ➳ ${prefix}debase32
- ${no++} ➳ ${prefix}debase64
-
- 𝘽𝙐𝙂𝙑𝙄𝙋 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}sendbug 628xxx
- ${no++} ➳ ${prefix}philips 628xxx
- ${no++} ➳ ${prefix}philips2 628xxx
- ${no++} ➳ ${prefix}philips3 628xxx
- ${no++} ➳ ${prefix}santet @tag
- ${no++} ➳ ${prefix}santet2 @tag
- ${no++} ➳ ${prefix}santet3 @tag
- ${no++} ➳ ${prefix}virtex 628xxx
- ${no++} ➳ ${prefix}virtex2 628xxx
- ${no++} ➳ ${prefix}virtex3 628xxx
- ${no++} ➳ ${prefix}bug1 628xxx
- ${no++} ➳ ${prefix}bug2 628xxx
- ${no++} ➳ ${prefix}bug3 628xxx
- ${no++} ➳ ${prefix}bug4 628xxx
- ${no++} ➳ ${prefix}bug5 628xxx
 
  𝘼𝙉𝙊𝙉𝙔𝙈𝙊𝙐𝙎 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}buatroom 628xxx
@@ -210,29 +150,6 @@ return`
  ${no++} ➳ ${prefix}smooth
  ${no++} ➳ ${prefix}earrape
  ${no++} ➳ ${prefix}reverse
- ${no++} ➳ ${prefix}nightcore
-
- 𝘼𝙐𝘿𝙄𝙊 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
- ${no++} ➳ ${prefix}audio${ad++}
 
  𝙒𝘼𝙇𝙇𝙋𝘼𝙋𝙀𝙍 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}milf
@@ -320,7 +237,7 @@ return`──「 *INFO OWNER* 」──
 
  *Data Profil*
  • *Nama:* Xlucifer
- • *Support:* Xiart
+ • *Nama:* Xiart
 
 _iam developer bot whatsapp._
 
