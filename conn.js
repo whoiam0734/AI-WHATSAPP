@@ -1370,10 +1370,9 @@ mentions(`*Ingin Jadi Premium?*
 *Silahkan Pilih Waktu Nya*
 
 *List Harga*
-Rp5.000 › 5day
-Rp10.000 › 10day
-Rp15.000 › 15day
-Rp20.000 › 20day
+Rp3.000 › 5day
+Rp5.000 › 10day
+Rp7.000 › 30day
 
 *Dan Seterusnya...*
 *day › hari*
@@ -1391,10 +1390,8 @@ mentions(`*SEWA BOT*
 
 *List Harga*
 Rp3.000 › 5day
-Rp5.000 › 10day
-Rp7.000 › 15day
-Rp10.000 › 20day
-Rp15.000 › 30day
+Rp5.000 › 15day
+Rp7.000 › 30day
 
 *day › hari*
 
