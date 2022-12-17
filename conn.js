@@ -1998,7 +1998,7 @@ break
 case 'git': case 'gitclone':{
 if (cekUser("id", sender) == null) return reply(mess.OnlyUser)
 let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
-if (!q) return reply('link githubnya mana?\n*Contoh:*\n#gitclone https://github.com/Lexxy24/MenfessV1')
+if (!q) return reply('link githubnya mana?\n*Contoh:*\n#gitclone https://github.com/')
 var linknya = q
 if (!regex1.test(linknya)) return reply('link salah!')
 let [, user, repo] = args[0].match(regex1) || []
@@ -3733,7 +3733,7 @@ fetchJson(`https://saipulanuar.ga/api/download/tiktok2?url=${q}&apikey=dyJhXvqe`
 .then(tt_res => {
 reply(`𝗧𝗜𝗞𝗧𝗢𝗞 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗
 
-𝘼𝙪𝙩𝙝𝙤𝙧: Angga Official
+𝘼𝙪𝙩𝙝𝙤𝙧: xlucifer
 𝙅𝙪𝙙𝙪𝙡: ${tt_res.result.judul}
 𝙎𝙤𝙪𝙧𝙘𝙚: ${q}
 
