@@ -36,6 +36,7 @@ return`
  𝙐𝙎𝙀𝙍 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}verify
  ${no++} ➳ ${prefix}donasi
+ ${no++} ➳ ${prefix}sewabot
  ${no++} ➳ ${prefix}menfess
  ${no++} ➳ ${prefix}buatroom
  ${no++} ➳ ${prefix}secretchat
