@@ -6,8 +6,12 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ Happy -𝘽𝙊𝙏 ━━━
+━━━ Happy -𝘽𝙊𝙏 ━━━
 
+*BOT 24 JAM ON,g on paket habis*
+*Delay? ya namanya server gratisan*
+*jangan di telfon!*
+*Jangan spam bot bang,santai aja masukan commandnya*
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
  ID : @${sender.split('@')[0]}
  Nama : ${namenya}
@@ -20,6 +24,7 @@ return`
  Terdaftar : ${usernya}
  Room Chat : ${romnya}
  Fitur : ngebug,harap di maklumi 
+ (BACA CARA PENGGUNAAN FITUR YG INGIN DI PAKAI)
 
  𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}menu
@@ -30,9 +35,7 @@ return`
 
  𝙐𝙎𝙀𝙍 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}verify
- ${no++} ➳ ${prefix}report
- ${no++} ➳ ${prefix}request
- ${no++} ➳ ${prefix}transfer
+ ${no++} ➳ ${prefix}donasi
  ${no++} ➳ ${prefix}menfess
  ${no++} ➳ ${prefix}buatroom
  ${no++} ➳ ${prefix}secretchat
@@ -40,28 +43,7 @@ return`
  ${no++} ➳ ${prefix}daftarprem
  ${no++} ➳ ${prefix}changename
 
- 𝙊𝙒𝙉𝙀𝙍 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}error
- ${no++} ➳ ${prefix}clearerr
- ${no++} ➳ ${prefix}siaran
- ${no++} ➳ ${prefix}session
- ${no++} ➳ ${prefix}resetdb
- ${no++} ➳ ${prefix}runtime
- ${no++} ➳ ${prefix}setexif
- ${no++} ➳ ${prefix}setwm
- ${no++} ➳ ${prefix}setfooter
- ${no++} ➳ ${prefix}setppbot
- ${no++} ➳ ${prefix}addprem
- ${no++} ➳ ${prefix}delprem
- ${no++} ➳ ${prefix}bc
- ${no++} ➳ ${prefix}bctext
- ${no++} ➳ ${prefix}bcvideo
- ${no++} ➳ ${prefix}bcaudio
- ${no++} ➳ ${prefix}bcimage
- ${no++} ➳ ${prefix}broadcast
-
  𝙂𝙍𝙊𝙐𝙋 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}fitnah
  ${no++} ➳ ${prefix}delete
  ${no++} ➳ ${prefix}revoke
  ${no++} ➳ ${prefix}tagall
@@ -82,18 +64,9 @@ return`
  ${no++} ➳ ${prefix}demote @tag
  ${no++} ➳ ${prefix}promote @tag
  
- 𝘼𝙐𝙏𝙊𝘿𝙀𝘾𝙏 𝙈𝙀𝙉𝙐 
- ${no++} ➳ ${prefix}sadcat
- ${no++} ➳ ${prefix}translate
- ${no++} ➳ ${prefix}stalkff
- ${no++} ➳ ${prefix}stalknpm
- ${no++} ➳ ${prefix}stalkgithub
- ${no++} ➳ ${prefix}balikhuruf
- ${no++} ➳ ${prefix}balikangka
- ${no++} ➳ ${prefix}besarkecil
- ${no++} ➳ ${prefix}bilangangka
-
  𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝙈𝙀𝙉𝙐
+ (ytmp4 durasi jangan panjang 
+ ytmp3 gagal? ganti link)
  ${no++} ➳ ${prefix}tiktok
  ${no++} ➳ ${prefix}ytmp3
  ${no++} ➳ ${prefix}ytmp4
@@ -103,36 +76,21 @@ return`
  ${no++} ➳ ${prefix}soundcloud
 
  𝘾𝙊𝙉𝙑𝙀𝙍𝙏 𝙈𝙀𝙉𝙐 
+ (STIKER BERGERAK BELUM BISA)
  ${no++} ➳ ${prefix}tts
  ${no++} ➳ ${prefix}toimg
- ${no++} ➳ ${prefix}toimage
  ${no++} ➳ ${prefix}tomp3
- ${no++} ➳ ${prefix}toaudio
  ${no++} ➳ ${prefix}tomp4
- ${no++} ➳ ${prefix}tovideo
- ${no++} ➳ ${prefix}emojimix
- ${no++} ➳ ${prefix}emojmix
- ${no++} ➳ ${prefix}emojinua
- ${no++} ➳ ${prefix}mixemoji
- ${no++} ➳ ${prefix}stiker
- ${no++} ➳ ${prefix}sticker
+ ${no++} ➳ ${prefix}s
  ${no++} ➳ ${prefix}swm
- ${no++} ➳ ${prefix}stikerwm
- ${no++} ➳ ${prefix}stickerwm
  ${no++} ➳ ${prefix}smeme
- ${no++} ➳ ${prefix}memestiker
- ${no++} ➳ ${prefix}stikermeme
- ${no++} ➳ ${prefix}stickermeme
  ${no++} ➳ ${prefix}takesticker
- ${no++} ➳ ${prefix}emojinua2
- ${no++} ➳ ${prefix}mixemoji2
- ${no++} ➳ ${prefix}emojmix2
- ${no++} ➳ ${prefix}emojimix2
 
  𝙏𝙊𝙊𝙇𝙎 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}translate
 
  𝘼𝙉𝙊𝙉𝙔𝙈𝙊𝙐𝙎 𝙈𝙀𝙉𝙐 
+ (untuk nomor tanpa (+ dan - hanya nomor))
  ${no++} ➳ ${prefix}buatroom 628xxx
  ${no++} ➳ ${prefix}room <only owner>
  ${no++} ➳ ${prefix}stopchat <only room>
@@ -151,6 +109,22 @@ return`
  ${no++} ➳ ${prefix}earrape
  ${no++} ➳ ${prefix}reverse
 
+ 𝙍𝘼𝙉𝘿𝙊𝙈 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 
+ ${no++} ➳ ${prefix}dadu
+ ${no++} ➳ ${prefix}anjing
+ ${no++} ➳ ${prefix}patrick
+ ${no++} ➳ ${prefix}bucinstick
+ ${no++} ➳ ${prefix}gawrgura
+ ${no++} ➳ ${prefix}amongus
+ ${no++} ➳ ${prefix}emojimix
+ ${no++} ➳ ${prefix}emojmix
+ ${no++} ➳ ${prefix}emojinua
+ ${no++} ➳ ${prefix}mixemoji
+ ${no++} ➳ ${prefix}emojinua2
+ ${no++} ➳ ${prefix}mixemoji2
+ ${no++} ➳ ${prefix}emojmix2
+ ${no++} ➳ ${prefix}emojimix2
+
  𝙒𝘼𝙇𝙇𝙋𝘼𝙋𝙀𝙍 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}milf
  ${no++} ➳ ${prefix}loli
@@ -168,7 +142,7 @@ return`
  ${no++} ➳ ${prefix}wallpaperteknologi
  ${no++} ➳ ${prefix}wallpapercyber
 
- 𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐 
+ 𝘼𝙉𝙄𝙈𝙀 𝙈𝙀𝙉𝙐 (PREMIUM)
  ${no++} ➳ ${prefix}cry
  ${no++} ➳ ${prefix}hug
  ${no++} ➳ ${prefix}pat
@@ -211,7 +185,7 @@ Sanksi: *SOFT BLOCK*
 Sanksi: *PERMANENT BLOCK*
 
 Jika sudah paham rulesnya
-Ketik *#menu* untuk memulai bot`
+Ketik *#menu* *.menu* *!menu* untuk memulai bot`
 }
 
 exports.donasiBot = (cekName,ucapanWaktu) =>{
@@ -224,7 +198,7 @@ Number: -
 A/N: __
 
 *Payment Dana*
-Number: -
+Number: 083153238595
 A/N: xlucifer
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
