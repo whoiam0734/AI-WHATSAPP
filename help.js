@@ -23,7 +23,7 @@ return`
  Date : ${tanggal}
  Terdaftar : ${usernya}
  Room Chat : ${romnya}
- Fitur : ngebug,harap di maklumi 
+ Fitur : +
  (BACA CARA PENGGUNAAN FITUR YG INGIN DI PAKAI)
 
  𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 
