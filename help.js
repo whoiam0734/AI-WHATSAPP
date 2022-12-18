@@ -111,12 +111,6 @@ return`
  ${no++} ➳ ${prefix}reverse
 
  𝙍𝘼𝙉𝘿𝙊𝙈 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 
- ${no++} ➳ ${prefix}dadu
- ${no++} ➳ ${prefix}anjing
- ${no++} ➳ ${prefix}patrick
- ${no++} ➳ ${prefix}bucinstick
- ${no++} ➳ ${prefix}gawrgura
- ${no++} ➳ ${prefix}amongus
  ${no++} ➳ ${prefix}emojimix
  ${no++} ➳ ${prefix}emojmix
  ${no++} ➳ ${prefix}emojinua
