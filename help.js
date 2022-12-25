@@ -21,7 +21,6 @@ return`
  Terdaftar : ${usernya}
  Room Chat : ${romnya}
  Fitur : +
- (BACA CARA PENGGUNAAN FITUR YG INGIN DI PAKAI)
 
  𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}menu
@@ -29,6 +28,29 @@ return`
  ${no++} ➳ ${prefix}owner
  ${no++} ➳ ${prefix}ownerinfo
  ${no++} ➳ ${prefix}infoowner
+
+ 𝙎𝙏𝙊𝙍𝙀 𝙈𝙀𝙉𝙐 
+ ${no++} ➳ ${prefix}kali 1 2
+ ${no++} ➳ ${prefix}bagi 1 2
+ ${no++} ➳ ${prefix}kurang 1 2
+ ${no++} ➳ ${prefix}tambah 1 2
+ ${no++} ➳ ${prefix}dellist key
+ ${no++} ➳ ${prefix}addlist key@response
+ ${no++} ➳ ${prefix}update key@response
+ ${no++} ➳ ${prefix}done <reply orderan>
+ ${no++} ➳ ${prefix}proses <reply orderan>
+ ${no++} ➳ ${prefix}list <only group>
+ ${no++} ➳ ${prefix}shop <only group>
+
+ 𝙎𝙊𝙎𝙈𝙀𝘿 𝙎𝙃𝙊𝙋 
+ ${no++} ➳ ${prefix}pricelist <layanan>
+ ${no++} ➳ ${prefix}order <cara order>
+ ${no++} ➳ ${prefix}like jumlah|target
+ ${no++} ➳ ${prefix}view jumlah|target
+ ${no++} ➳ ${prefix}follower jumlah|username
+ ${no++} ➳ ${prefix}cekstatus <idtrx>
+ ${no++} ➳ ${prefix}komisi <owner only>
+ ${no++} ➳ ${prefix}tarikkomisi <owner only>
 
  𝙐𝙎𝙀𝙍 𝙈𝙀𝙉𝙐 
  ${no++} ➳ ${prefix}verify
